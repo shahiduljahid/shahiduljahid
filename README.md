@@ -1,9 +1,7 @@
 Md Shahidul Islam Jahid  
 Full Stack Web Developer 
 
-
 Email: shahiduljahid71@gmail.com
-
 Phone: +8617658082231(CN)
 GitHub: github.com/shahiduljahid
 Website: twitter.com/shahidulJahid1
