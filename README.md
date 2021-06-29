@@ -7,7 +7,7 @@ Phone: +8617658082231(CN)
 
 GitHub: github.com/shahiduljahid
 
-Website: twitter.com/shahidulJahid1
+Website: https://shahidul-portfolio.web.app/
 
 Linkedin: linkedin.com/in/shahiduljahid
 
