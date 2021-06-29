@@ -5,11 +5,11 @@ Email: shahiduljahid71@gmail.com
 
 Phone: +8617658082231(CN)
 
-GitHub: github.com/shahiduljahid
+
 
 Website: https://shahidul-portfolio.web.app/
 
-Linkedin: linkedin.com/in/shahiduljahid
+Linkedin:  https://linkedin.com/in/shahiduljahid
 
 Address: Yantai, Shandong, China
 
