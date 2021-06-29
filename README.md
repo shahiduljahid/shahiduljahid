@@ -9,7 +9,7 @@ Phone: +8617658082231(CN)
 
 Website: https://shahidul-portfolio.web.app/
 
-Linkedin:  https://linkedin.com/in/shahiduljahid
+Linkedin:  https://www.linkedin.com/in/shahiduljahid71/
 
 Address: Yantai, Shandong, China
 
