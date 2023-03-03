@@ -13,6 +13,9 @@
   <a href="https://www.linkedin.com/in/shahiduljahid71/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+    <a href="https://www.facebook.com/Shahidul.3333/">
+    <img src="https://img.shields.io/badge/FACEBOOK-blue?style=for-the-badge&logo=FACEBOOK&logoColor=white" alt="FACEBOOK Badge"/>
+  </a>
 </div>
   
 
@@ -46,7 +49,7 @@
   #
 <details>
 <summary><h3>💬Chat</h3></summary>
- If you're interested in collaborating or learning more about my work, please feel free to check out my website at  https://shahidul-portfolio.web.app/ or connect with me on LinkedIn at https://www.linkedin.com/in/shahiduljahid71/. Let's work together to make something great!
+ If you're interested in collaborating or learning more about my work, please feel free to check out my website at  https://shahidul-portfolio.web.app/ or connect with me on LinkedIn at https://www.linkedin.com/in/shahiduljahid71/ . Let's work together to make something great!
 </details>
   
 
