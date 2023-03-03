@@ -1,31 +1,12 @@
-Md Shahidul Islam Jahid  
+👋 Hello there! I'm Shahidul Islam Jahid, a passionate programmer with a 💻 Bachelor's degree in Computer Science.
 
+🚀 As a developer, I specialize in web development with expertise in 🌟 React (Next.js). I've completed numerous full-stack projects independently, and I'm always looking for new challenges to push the limits of what's possible with technology.
 
-Email: shahiduljahid71@gmail.com
-
-Phone: +8617658082231(CN)
-
-
-
-Website: https://shahidul-portfolio.web.app/
-
-Linkedin:  https://www.linkedin.com/in/shahiduljahid71/
-
-Address: Yantai, Shandong, China
+💪 My skills include proficiency in languages like 🚀 JavaScript, Java, C, Python, C++, and front-end technologies like
 
 
 
-▶Summary
 
-I am Always Ready for Challenge. Programming has always been my passion. Currently, I am doing a bachelor’s in Computer Science.
-I have good knowledge of Web development, especially about React(Next.js). I already have done many full-stack projects by myself.
-I am a team player who loves to learn always and sometimes I can lead if needs. At last, I just want to say that I am hungry for Programming. 
-Life stuck between loops and states. Responsiveness is now one of the responsibilities. "LED became Reality"
+👨‍💻 I'm a team player who loves to learn and sometimes take on leadership roles. I'm always eager to work with other developers to create high-impact solutions that make a real difference in the world.
 
-▶Skills
-
-◉Languages – JavaScript, Java, C ,python, c++ 
-◉Front End - React(next Js),React Native,Sass, Bootstrap,Material UI , Tailwind CSS ,vue js
-◉Back End - Node.js (Express), Firebase, Mongo DB, MySQL, Heroku 
-◉Others – Adobe Photoshop
-
+💬 If you're interested in collaborating or learning more about my work, please feel free to check out my website at https://shahidul-portfolio.web.app/ or connect with me on LinkedIn at https://www.linkedin.com/in/shahiduljahid71/ . Let's work together to make something great!
