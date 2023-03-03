@@ -1,4 +1,4 @@
-# 🏄‍♂️ Shahidul Islam Jahid
+# 🏄‍♂️ SHAHIDUL ISLAM JAHID
 
 **`Problem Solver | Developer | MERN Developer`**
 
