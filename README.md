@@ -39,6 +39,11 @@
 <img align="left" alt="Skill" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
         
 <br />
+<br/>
+<div><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahiduljahid&show_icons=true&locale=en&layout=compact" alt="shahiduljahid" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahiduljahid&show_icons=true&locale=en" alt="shahiduljahid" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahiduljahid&" alt="shahiduljahid" /></p></div>
+
 
 #
 <details>
