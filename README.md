@@ -1,10 +1,14 @@
 # 🏄‍♂️ SHAHIDUL ISLAM JAHID
 
-**`Problem Solver | Developer | MERN Developer`**
+**`Problem Solver | AI Researcher | MERN Developer`**
 
-👋 Hello there! I'm Shahidul Islam Jahid, a passionate programmer with a 💻 Bachelor's degree in Computer Science.
+## 👋 Hello there!
 
-🚀 As a developer, I specialize in web development. I've completed numerous full-stack projects independently, and I'm always looking for new challenges to push the limits of what's possible with technology.
+I'm **Shahidul Islam Jahid**, a passionate programmer with a 💻 Bachelor's degree in Computer Science and currently pursuing an MSc in Software Engineering with a research focus on Deep Learning.
+
+🚀 As a developer, I specialize in web development. I have independently completed numerous full-stack projects, and I'm always on the lookout for new challenges to push the limits of what's possible with technology.
+
+🌱 I'm constantly learning and improving my skills, with a strong focus on delivering high-quality, efficient, and scalable solutions. Whether it's developing innovative web applications or conducting cutting-edge research in deep learning, I strive to make a significant impact in the tech world.
 
 <div id="badges">
   <div id="header">
@@ -23,16 +27,21 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 
+<img align="left" alt="Skill" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
 <img align="left" alt="Skill" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="Skill" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 <img align="left" alt="Skill" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Skill" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Skill" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="Skill" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Skill" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Skill" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+<img align="left" alt="Skill" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-plain.svg" />
 <img align="left" alt="Skill" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Skill" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="Skill" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="Skill" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
+<img align="left" alt="Skill" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg" />
 <img align="left" alt="Skill" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
 <img align="left" alt="Skill" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Skill" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
@@ -46,7 +55,9 @@
 ### 📊 Stats
 
 
-![MOST USED LANGUAGES](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=shahiduljahid&show_icons=true&locale=en&layout=compact) ![SHAHIDUL ISLAM JAHID's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=shahiduljahid&show_icons=true&locale=en)    
+[![Langguages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahiduljahid&hide=stylus,java&langs_count=10&theme=nightowl)]()
+
+![SHAHIDUL ISLAM JAHID's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=shahiduljahid&show_icons=true&locale=en)    
 ![GITHUB STREAK](https://github-readme-streak-stats.herokuapp.com/?user=shahiduljahid&")
   
 <br />
